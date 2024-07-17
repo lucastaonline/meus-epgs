@@ -1,4 +1,1756 @@
-<tv generator-info-name="Uniplay" generator-ts="15110166167">
+<tv generator-info-name="Uniplay">
+<channel id="">
+<display-name>Star Life SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star Life HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star Life FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 3</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 4</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 5</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 6</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 7</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 8</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CINE SKY PLAY 9</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png"/>
+</channel>
+<channel id="">
+<display-name>CANAL DO VOLEI 03</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png"/>
+</channel>
+<channel id="">
+<display-name>CANAL DO VOLEI 02</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png"/>
+</channel>
+<channel id="">
+<display-name>CANAL DO VOLEI 01</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANALVOLEIBRASIL.png"/>
+</channel>
+<channel id="">
+<display-name>F1 TV PRO 04</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/F1.png"/>
+</channel>
+<channel id="">
+<display-name>F1 TV PRO 03</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/F1.png"/>
+</channel>
+<channel id="">
+<display-name>F1 TV PRO 02</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/F1.png"/>
+</channel>
+<channel id="">
+<display-name>F1 TV PRO 01</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/F1.png"/>
+</channel>
+<channel id="">
+<display-name>Liga Futsal 3 HD</display-name>
+<icon src="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png"/>
+</channel>
+<channel id="">
+<display-name>Liga Futsal 2 HD</display-name>
+<icon src="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png"/>
+</channel>
+<channel id="">
+<display-name>Liga Futsal 1 HD</display-name>
+<icon src="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png"/>
+</channel>
+<channel id="">
+<display-name>PT- Marvel</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>CMTV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>CNN HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>SIC Noticias HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVCine + HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TV Cine Top HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TV Cine Edition HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TV Cine Emotion HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TV Cine Action HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>NOS StudiosHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Hollywood HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX Muvies HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Cine Mundo HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Star + HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Portugal</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>SYFY HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX Crime HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX Comedy HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX Life HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>FOX Life FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>PT- BTV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Disney Star Wars</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Disney Pixar</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Disney Marvel</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Disney +</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Jim Jam SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Nickelodeon SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>SIC Kids HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Panda Biggs SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Disney Channel SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI FicçãoHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI Reality HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TV Record HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>SIC Mulher HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>SIC Radical HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>CBS Reality SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TLC SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Casa Cozinha HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Más Chic HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Food Network</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>E! Entertainment SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Travel Channel HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Porto Canal HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Canal Q SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>DOG TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>National Geographic Wild HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>PT National Geographic HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>ID Invesigation Discovery HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Odisseia HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Crime Investigação SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Discovery ID</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Fashion TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>PFC SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Fuel TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Fuel TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Toros TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Toros TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>MotorVision TV SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Caça & Pesca FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Red Bull TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>VH1 SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Trace Urban</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>MTV Portugal HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>MTV Live HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>MCM POP SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Mezzo Live FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Clubbing TV</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>M6 Music HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Zap Viva FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Kuriakos TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TPA Internacional SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TCV Internacioanal</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVC Cabo Verde</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Eeuro News</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI Reality Mosaico</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI Reality Low</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI Reality</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>TVI Reality FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>HBO PLUS HD LEG</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>Space FHD [LEG ]</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SPACE.png"/>
+</channel>
+<channel id="">
+<display-name>Warner Channel HD [LEG]</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"/>
+</channel>
+<channel id="">
+<display-name>IT- SKY SPORTS MOTO GP</display-name>
+<icon src="https://img.sport-tv-guide.live/images/stations/a360.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 1 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 5 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 6 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>Relaxar com natureza 4 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Relaxar com natureza 3 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Relaxar com natureza 2 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Relaxar com natureza 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Relaxar e Dormir 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Yu-Gi-Oh Temp. 7 24h</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 1 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN1 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 1 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 2 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 2 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN2 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN 2 </display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN3</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN4</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN5</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>DAZN6</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DAZN.png"/>
+</channel>
+<channel id="">
+<display-name>24H] Pegadinhas Joao kleber </display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 3</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 4</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 5</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 6</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>NSPORTS 7</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/NSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>[24H] Chaves 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>24H] Chaves 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>[24H] Chapolin 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 1 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 1 UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 1 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 2 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 3 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 3 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 4 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 4 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 5 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>Star + 6 FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARPLUS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 1 HD sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 1 HQ sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 2 HD sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 2 HQ sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 2 SQ sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 3 HD sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS PREMIUM</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | FOX SPORTS 1 HD mx</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FOXSPORTS.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 1 HQ col</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 2 HD chi</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 2 HD col</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 2 SQ col</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 2 SQ sur</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 3 SQ arg</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 1 HD MX</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 2 HD MX</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>DEPORTE | ESPN 3 HD MX</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>USL- NBC GOLF HD</display-name>
+<icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTOVpplN3FpfmpZKXA-JCAgTGUSCQWxKhVldTJTvrCvr-GSn531X57GjwINpx5PsmXivw&usqp=CAU"/>
+</channel>
+<channel id="">
+<display-name>[CA] GOLF CHANNEL HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GOLFCHANNEL.png"/>
+</channel>
+<channel id="">
+<display-name>LAT| GALAVISION NEW YORK HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png"/>
+</channel>
+<channel id="">
+<display-name>LAT| TELEMUNDO 47 NEW YORK HD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png"/>
+</channel>
+<channel id="">
+<display-name>ENTRE | TELEMUNDO INTERNACIONAL HD</display-name>
+<icon src="https://i2.wp.com/qepd.news/wp-content/uploads/2019/02/telemundo.png?fit=790%2C526&ssl=1&w=640"/>
+</channel>
+<channel id="">
+<display-name>LAT | CARTOON NETWORK HQ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | CARTOON NETWORK</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CARTOONNETWORK.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | NICK JR FHD</display-name>
+<icon src="https://clarovideocdn5.clarovideo.net/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHDWHORIZONTAL.jpg?size=290x163"/>
+</channel>
+<channel id="">
+<display-name>Lat | Discovery TLC</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/TLC.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | STAR CHANNEL</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/STARCHANNEL.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO 2 HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO PLUS HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO SIGNATURE HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO POP</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO MUNDI</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO XTREME HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | FX HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FX.jpg"/>
+</channel>
+<channel id="">
+<display-name>LAT | DISNEY CHANNEL FHD</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | HBO FAMILY FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBO.png"/>
+</channel>
+<channel id="">
+<display-name>LAT | GOLDEN PREMIER FHD</display-name>
+<icon src="https://images.zetatv.com.uy/getimageurl/800x1200/center/zpapi.zetatv.com.uy/media/images/golden2.png"/>
+</channel>
+<channel id="">
+<display-name>STARS EXCLUSIVE: LANA RHOADES</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>[24H] Thiago Ventura</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 1 Z</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video1 L</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 2 Z</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 2 T</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 2 L</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 3 Z</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 3 L</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 3 T</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>Prime Video 4 Z</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/PRIMEVIDEO.png"/>
+</channel>
+<channel id="">
+<display-name>RedTraffic TV Teen</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>[24H] Cavaleiros do Zodiaco 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>[24H] Pocoyo</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/DESENHOS-24-HORAS.png"/>
+</channel>
+<channel id="">
+<display-name>USL- A&E HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- ESPN FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name> USL- FOX NEWS ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FXX HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- HALLMARK DRAMA ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name> USL- NICK MUSIC ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- TRU TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL-TV LAND HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- LIFETIME HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- ABC LOS ANGELES HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- ABC NEW YORK HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- AMC HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- ANIMAL PLANET HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- BABY TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- BBC AMERICA HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- CARTOON NETWORK HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FOOD NETWORK HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FOOD NETWORK ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FOX BUSINESS FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FOX DEPORTES FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- FYI FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- HALLMARK CHANNEL ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- OWN CHANNEL FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- SMITHSONIAN CHANNEL WEST ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- TNT FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- TNT HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- DISCOVERY CHANNEL HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name> USL- USA NETWORK ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- NBA TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 1 SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 1 HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 1 FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 2 SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 2 HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB 2 FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Fada SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Fada HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Fada FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Gnomo SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Gnomo HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Gnomo FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Chuveiro SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Chuveiro HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Chuveiro FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Sala Estar SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Sala Estar HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Sala Estar FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Piscina SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Piscina HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Piscina FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Mosaico SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Mosaico HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Mosaico FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Jardim SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Jardim HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Jardim FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha Delícia SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha Delícia HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Cozinha Delícia FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Magia SD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Magia HD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>BBB Quarto Magia FHD</display-name>
+<icon src="https://www.otempo.com.br/image/contentid/policy:1.3297892:1704504773/bbb-24-png.png"/>
+</channel>
+<channel id="">
+<display-name>Nosso Futebol 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Nosso Futebol 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Nosso Futebol 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>CAMPEONATO 02 HD</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>CAMPEONATO 03 HD</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Acreano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alemao 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alemao 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alemao 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alemao 04</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alemao 05</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Amapaense</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Amazonense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Catarinense 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Cearense 04</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Maranhense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mato-Grossense 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mineiro 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mineiro 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mineiro 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paraibano 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paraibano 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Pernambucano 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Pernambucano 04</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Tocantinense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 1</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 2</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 3</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 4</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 5</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 6</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 7</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa do Nordeste 8</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa Verde 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa Verde 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alagoano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Alagoano 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Baiano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Brasiliense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Brasiliense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Carioca 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Carioca 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Catarinense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Catarinense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Capixaba 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Capixaba 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Cearense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Cearense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Gaucho 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Gaucho 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Goiano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Goiano 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Maranhense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mato-Grossense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Mato-Grossense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paraense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paranaense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paranaense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paranaense 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paraibano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paulista A2 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paulista A2 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Paulista A2 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Pernambucano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Pernambucano 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Piauiense 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Piauiense 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Potiguar 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Potiguar 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Sergipano 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Campeonato Sergipano 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 01</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 02</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 03</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 04</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 05</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 06</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 07</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 08</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 09</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 10</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 11</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 12</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 13</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 14</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 15</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 16</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 17</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copinha SP 18</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>TVE Bahia</display-name>
+<icon src="data:image/jpeg;base64,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"/>
+</channel>
+<channel id="">
+<display-name>ESPN FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/ESPN.png"/>
+</channel>
+<channel id="">
+<display-name>CazeTV 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CAZETV.png"/>
+</channel>
+<channel id="">
+<display-name>CazeTV 3</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/CAZETV.png"/>
+</channel>
+<channel id="">
+<display-name>A Grande Conquista 1</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png"/>
+</channel>
+<channel id="">
+<display-name>A Grande Conquista 2</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png"/>
+</channel>
+<channel id="">
+<display-name>A Grande Conquista 3</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png"/>
+</channel>
+<channel id="">
+<display-name>A Grande Conquista 4</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 3</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 4</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 5</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 6</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>MLS League Pass 7</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MLS.png"/>
+</channel>
+<channel id="">
+<display-name>PBR FHD</display-name>
+<icon src="https://yt3.googleusercontent.com/ytc/AIdro_nwcdjbnmx_FHQopTs8mF-ksQFDllAEw3bMBmOndaGw=s900-c-k-c0x00ffffff-no-rj"/>
+</channel>
+<channel id="">
+<display-name>PBR HD</display-name>
+<icon src="https://yt3.googleusercontent.com/ytc/AIdro_nwcdjbnmx_FHQopTs8mF-ksQFDllAEw3bMBmOndaGw=s900-c-k-c0x00ffffff-no-rj"/>
+</channel>
+<channel id="">
+<display-name>PBR SD</display-name>
+<icon src="https://yt3.googleusercontent.com/ytc/AIdro_nwcdjbnmx_FHQopTs8mF-ksQFDllAEw3bMBmOndaGw=s900-c-k-c0x00ffffff-no-rj"/>
+</channel>
+<channel id="">
+<display-name>World Jiu-Jitsu IBJJF Championship 1</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/JIU.png"/>
+</channel>
+<channel id="">
+<display-name>World Jiu-Jitsu IBJJF Championship 2</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/JIU.png"/>
+</channel>
+<channel id="">
+<display-name>TV IMPD HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/IMPD.png"/>
+</channel>
+<channel id="">
+<display-name>TV IMPD FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/IMPD.png"/>
+</channel>
+<channel id="">
+<display-name>TV IMPD SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/IMPD.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RBS Cruz Alta UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RBS Cruz Alta HD²</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>CGTN Documentary (CHINA)</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/250px-CGTN.png"/>
+</channel>
+<channel id="">
+<display-name>Copa Paulista 1</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>Copa Paulista 2</display-name>
+<icon src="https://www.br104.com.br/wp-content/uploads/2019/04/Campeonato-Estaduais.jpg"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 3 UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 4 UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 5 UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>HBO Max 6 UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/HBOMAX.png"/>
+</channel>
+<channel id="">
+<display-name>TV SENADO</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/TVSENADO.png"/>
+</channel>
+<channel id="">
+<display-name>TV CÂMARA FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/TVCAMARA.png"/>
+</channel>
+<channel id="">
+<display-name>TV IMPD HD²</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/IMPD.png"/>
+</channel>
+<channel id="">
+<display-name>TV IMPD UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/IMPD.png"/>
+</channel>
+<channel id="">
+<display-name>BJJ STARS HD</display-name>
+<icon src="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj"/>
+</channel>
+<channel id="">
+<display-name>BJJ STARS SD</display-name>
+<icon src="https://yt3.googleusercontent.com/5qffzzZVV45NzgJ_wu-xlvXN-BSHWKW15goDi1QJcVIna8Seu-9PMGWOBCLuz6QAlZE0byNrMw=s900-c-k-c0x00ffffff-no-rj"/>
+</channel>
+<channel id="">
+<display-name>Globo RPC Foz Do Iguaçu FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RPC Foz Do Iguaçu HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RPC Foz Do Iguaçu SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>GLOBO TV GRANDE RIO HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
+<channel id="">
+<display-name>FLA TV</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/FLATV.png"/>
+</channel>
+<channel id="">
+<display-name>RecordTV THATHI CAMPINAS FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png"/>
+</channel>
+<channel id="">
+<display-name>RecordTV THATHI CAMPINAS HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png"/>
+</channel>
+<channel id="">
+<display-name>RecordTV THATHI CAMPINAS SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png"/>
+</channel>
+<channel id="">
+<display-name>Boa Vontade TV FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BoaVontade.png"/>
+</channel>
+<channel id="">
+<display-name>Boa Vontade TV HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BoaVontade.png"/>
+</channel>
+<channel id="">
+<display-name>Boa Vontade TV SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BoaVontade.png"/>
+</channel>
+<channel id="">
+<display-name>Adult Swim FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Swin.png"/>
+</channel>
+<channel id="">
+<display-name>Adult Swim HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Swin.png"/>
+</channel>
+<channel id="">
+<display-name>Travel Box Brasil FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Tbb.png"/>
+</channel>
+<channel id="">
+<display-name>Travel Box Brasil HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Tbb.png"/>
+</channel>
+<channel id="">
+<display-name>Travel Box Brasil SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Tbb.png"/>
+</channel>
+<channel id="">
+<display-name>USL- BBC WORLD NEWS ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL-DEPORTES| BEIN SPORTS ENGLISH HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>USL- DEPORTES| BEIN SPORTS EN ESPANOL HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>BIS UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BIS.png"/>
+</channel>
+<channel id="">
+<display-name>BIS SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BIS.png"/>
+</channel>
+<channel id="">
+<display-name>BIS HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BIS.png"/>
+</channel>
+<channel id="">
+<display-name>BIS FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/BIS.png"/>
+</channel>
+<channel id="">
+<display-name>Gloob UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOB.png"/>
+</channel>
+<channel id="">
+<display-name>Gloob FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOB.png"/>
+</channel>
+<channel id="">
+<display-name>Gloob HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOB.png"/>
+</channel>
+<channel id="">
+<display-name>Gloob HD²</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOB.png"/>
+</channel>
+<channel id="">
+<display-name>Gloob SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOB.png"/>
+</channel>
+<channel id="">
+<display-name>Gloobinho FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png"/>
+</channel>
+<channel id="">
+<display-name>Gloobinho UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png"/>
+</channel>
+<channel id="">
+<display-name>Gloobinho HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png"/>
+</channel>
+<channel id="">
+<display-name>Gloobinho HD²</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png"/>
+</channel>
+<channel id="">
+<display-name>Gloobinho SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOOBINHO.png"/>
+</channel>
+<channel id="">
+<display-name>GNT UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GNT.png"/>
+</channel>
+<channel id="">
+<display-name>GNT FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GNT.png"/>
+</channel>
+<channel id="">
+<display-name>GNT HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GNT.png"/>
+</channel>
+<channel id="">
+<display-name>GNT SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GNT.png"/>
+</channel>
+<channel id="">
+<display-name>Multishow FHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png"/>
+</channel>
+<channel id="">
+<display-name>Multishow UHD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png"/>
+</channel>
+<channel id="">
+<display-name>Multishow HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png"/>
+</channel>
+<channel id="">
+<display-name>Multishow SD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/MULTISHOW.png"/>
+</channel>
+<channel id="">
+<display-name>SBT INTERIOR HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SBT.png"/>
+</channel>
+<channel id="">
+<display-name>SBT TV ARATU -BAHIA HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SBT.png"/>
+</channel>
+<channel id="">
+<display-name>SBT TV JANGADEIRO -CEARA</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/SBT.png"/>
+</channel>
+<channel id="">
+<display-name>USL- NEWSY ᴴᴰ</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/EUA.png"/>
+</channel>
+<channel id="">
+<display-name>TV Globo HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/Portugal.png"/>
+</channel>
+<channel id="">
+<display-name>Globo RBS TV Santa Rosa HD</display-name>
+<icon src="http://app.tvdigital.link:2095/logoscanais/GLOBO.png"/>
+</channel>
 <channel id="CanaldoBoi.br">
 <display-name>Canal do Boi SD</display-name>
 <icon src="http://app.tvdigital.link:2095/logoscanais/CANALDOBOI.png"/>
